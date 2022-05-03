@@ -1,0 +1,10 @@
+test
+test1
+test2
+<<<<<<< HEAD
+new line
+new line 1
+=======
+new line
+new line 2
+>>>>>>> 652fc8bd3e3bd63f02fa5d35030692a23180f899
